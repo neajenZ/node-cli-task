@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Какой то там таск",
+    "completed": false
+  },
+  {
+    "description": "Пример задачи",
+    "completed": true
+  },
+  {
+    "description": "Новая задача",
+    "completed": true
+  }
+]
